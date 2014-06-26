@@ -28,8 +28,8 @@ See Also
 =cut
 
 package WebColors;
-$WebColors::VERSION = '0.1.0';
-use 5.014;
+$WebColors::VERSION = '0.2.0';
+use 5.0.4;
 use warnings;
 use strict;
 use Exporter;
